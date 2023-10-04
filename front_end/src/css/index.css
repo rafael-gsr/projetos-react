@@ -1,0 +1,14 @@
+html,body{
+    display: flex;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background: linear-gradient(141deg, #353535 50%, #797979 100%);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+#root{
+    width:100vw;
+    min-height: 100vh;
+}
